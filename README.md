@@ -9,7 +9,7 @@
 
 ## Instructions
 ### Data Directory
-Get the [mnist](http://yann.lecun.com/exdb/mnist/) dataset and [cifar10](https://www.cs.toronto.edu/~kriz/cifar.html) matlab version dataset. use pylearn2 to preprocess the SHVN dataset as described in [orignal repo](https://github.com/MatthieuCourbariaux/BinaryConnect).
+Get the [mnist](http://yann.lecun.com/exdb/mnist/) dataset and [cifar10](https://www.cs.toronto.edu/~kriz/cifar.html) matlab version dataset. use pylearn2 to preprocess the SVHN dataset as described in [orignal repo](https://github.com/MatthieuCourbariaux/BinaryConnect).
 
 ````
 cd $(PROJ_DIR)
